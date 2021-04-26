@@ -1,0 +1,13 @@
+{
+"liverServer.settings.port" : 8080,
+"liveServer.Settings.CustomBrowser" :"chrome",
+"liveServer.settings.AdvancedCustomBrowserCmdLine" : "chrome --incognito --remote-debugging-port =9222",
+"liveServer.setting.NoBrowser" : false ,
+"liveServer.settings.ignoreFiles" : [
+    ".vscode/**",
+    "**/*.scss",
+    "**/*.sass"
+] 
+
+
+}
